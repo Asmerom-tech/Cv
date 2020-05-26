@@ -1,3 +1,5 @@
+/* This is the css for hobbies  try for vs  */
+
 .hobbies {
   background-color: #fff;
   color: #000;
@@ -11,8 +13,9 @@
   text-transform: uppercase;
 }
 ul li {
-  padding: 25px;
+  padding: 20px 0px 0px 180px;
   float: left;
   text-decoration: none;
   list-style: none;
+  font-size: 1.5rem;
 }
