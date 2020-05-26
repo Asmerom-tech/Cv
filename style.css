@@ -1,0 +1,18 @@
+.hobbies {
+  background-color: #fff;
+  color: #000;
+  text-align: center;
+  font-family: sans-serif;
+}
+.hobbies-text {
+  font-size: 3rem;
+  color: red;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+ul li {
+  padding: 25px;
+  float: left;
+  text-decoration: none;
+  list-style: none;
+}
